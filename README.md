@@ -14,4 +14,4 @@ To run the app:
 
 This application also allow you to select a specifiy country to check the number confirmed cases, recovered cases, and deaths.
 
-Hope everyone stay safe!
+Hope everyone stays safe!
