@@ -1,5 +1,6 @@
-![Image description](https://github.com/ShuhaoBai/COVID19-Case-Show-Chart-by-React/blob/master/src/components/img/cb-covid19-updates.jpg)
-
+![Image description](https://github.com/ShuhaoBai/COVID19-Case-Show-Chart-by-React/blob/master/src/components/img/231587947788_.pic.jpg)
+![Image description](https://github.com/ShuhaoBai/COVID19-Case-Show-Chart-by-React/blob/master/src/components/img/241587947801_.pic_hd.jpg)
+![Image description](https://github.com/ShuhaoBai/COVID19-Case-Show-Chart-by-React/blob/master/src/components/img/251587947864_.pic.jpg)
 
 Utilized third party API to fetch the active COVID-19 cases from the world.
 Created the page with React and Hook.
