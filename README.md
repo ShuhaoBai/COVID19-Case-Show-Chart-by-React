@@ -10,3 +10,8 @@ To run the app:
 2. npm i
 3. npm start
 4. Page will be shown in "localhost:3000" by default.
+
+
+This application also allow you to select a specifiy country to check the number confirmed cases, recovered cases, and deaths.
+
+Hope everyone stay safe!
