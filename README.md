@@ -1,7 +1,9 @@
+![Image description](https://github.com/ShuhaoBai/COVID19-Case-Show-Chart-by-React/blob/master/src/components/img/cb-covid19-updates.jpg)
+
+
 Utilized third party API to fetch the active COVID-19 cases from the world.
 Created the page with React and Hook.
 
-![Image description](https://github.com/ShuhaoBai/COVID19-Case-Show-Chart-by-React/blob/master/src/components/img/cb-covid19-updates.jpg)
 
 To run the app:
 1. Clone the repo
